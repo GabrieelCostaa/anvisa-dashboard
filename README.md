@@ -2,7 +2,7 @@
 
 > Analise exploratoria de eventos adversos a medicamentos no Brasil, com dados do sistema VigiMed da ANVISA.
 
-**Projeto Final** | Ciencia de Dados | Engenharia de Software - PUC Campinas | 2026
+**Projeto Final** | Banco de Dados Avancado | Engenharia de Software - PUC Campinas | 2026
 
 ---
 
@@ -196,4 +196,4 @@ Todos os dados sao publicos e disponibilizados pela ANVISA:
 
 ---
 
-*Projeto desenvolvido como trabalho final da disciplina de Ciencia de Dados — Engenharia de Software, PUC Campinas.*
+*Projeto desenvolvido como trabalho final da disciplina de Banco de Dados Avancado — Engenharia de Software, PUC Campinas.*
